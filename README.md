@@ -1,2 +1,3 @@
 # N2
-The country you must to travl :JP
+The country you must to travel :JP  
+
