@@ -29,5 +29,9 @@ The country you must to travel :JP
 * え段+え  
 * え段+い 
 * お段+お  
-* お段+う  
+* お段+う
+
+### 促音
+
+ちゆうごくん
 
